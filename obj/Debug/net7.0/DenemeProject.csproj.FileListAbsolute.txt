@@ -1,0 +1,15 @@
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/bin/Debug/net7.0/DenemeProject
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/bin/Debug/net7.0/DenemeProject.deps.json
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/bin/Debug/net7.0/DenemeProject.runtimeconfig.json
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/bin/Debug/net7.0/DenemeProject.dll
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/bin/Debug/net7.0/DenemeProject.pdb
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.csproj.AssemblyReference.cache
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.AssemblyInfoInputs.cache
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.AssemblyInfo.cs
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.csproj.CoreCompileInputs.cache
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.dll
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/refint/DenemeProject.dll
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.pdb
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/DenemeProject.genruntimeconfig.cache
+/Users/umitbasak/Projects/DenemeProject/DenemeProject/obj/Debug/net7.0/ref/DenemeProject.dll
